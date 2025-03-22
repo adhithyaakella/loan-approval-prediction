@@ -21,8 +21,8 @@ A user-friendly Streamlit web application to predict whether a customer is likel
 
 Due to file size limitations on GitHub, the trained model and scaler are hosted on Google Drive.
 
-- [Download Trained Model (random_forest_model.pkl)]([https://drive.google.com/file/d/your_model_file_id/view?usp=sharing](https://drive.google.com/file/d/1mF9fyzcjGbDeSJr_LCJP59Saot6xdG-u/view?usp=drive_link))
-- [Download Scaler (scaler.pkl)]([https://drive.google.com/file/d/your_scaler_file_id/view?usp=sharing](https://drive.google.com/file/d/1Mz6oP1HhwcKUll588h8Q9K48dQNxkduS/view?usp=drive_link))
+- [Download Trained Model (random_forest_model.pkl)]([https://drive.google.com/file/d/1mF9fyzcjGbDeSJr_LCJP59Saot6xdG-u/view?usp=drive_link])
+- [Download Scaler (scaler.pkl)]([https://drive.google.com/file/d/1Mz6oP1HhwcKUll588h8Q9K48dQNxkduS/view?usp=drive_link])
 
 > Please download these files and place them in the project root directory before running `app.py`.
 
